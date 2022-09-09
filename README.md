@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @griffinshufeldt
-- 👀 I’m interested in economics, public policy, and data science
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on Anything R or Python related
-- 📫 How to reach me: griffin.shu@gmail.com or on LinkedIn
+<h3> Hi, I’m Griffin Shufeldt </h3>
+
+- I’m currently studying economics at UC Berkeley with other interests in Data Science and Public Polcy
+- I primarily use Python and R for both personal and academic projects
+- How to reach me: griffin.shu@gmail.com or linkedin.com/in/griffin-shufeldt/
